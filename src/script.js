@@ -88,7 +88,7 @@
           : `<p class="muted">No assets</p>`;
         return `
         <div class="latest" data-release-downloads="${assetsTotal}">
-          <p class="meta"><strong>${tag} - ${esc(fmtDate(pub))} by <a href="https://github.com/${esc(label)}">${esc(label)}</a></strong></p>
+          <p class="meta"><strong>${tag} - ${esc(fmtDate(pub))} by <a href="https://github.com/${esc(label)}" target="_blank" rel="noopener noreferrer">${esc(label)}</a></strong></p>
           ${assetsHtml}
           <p class="meta">Total for this release: <strong>${assetsTotal}x</strong></p>
         </div> <hr class="dash" />`;
