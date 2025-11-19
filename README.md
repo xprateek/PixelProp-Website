@@ -1,17 +1,14 @@
 <p align="center">
-  <img src="https://developer.android.com/static/images/brand/android-head_flat.png" width="160" alt="Android Logo" />
+  <img src="https://raw.githubusercontent.com/Elcapitanoe/PixelProp-Website/refs/heads/main/src/pixelprop-logo-rc.png" width="160" alt="Android Logo" />
 </p>
-
-<p align="center"><sub>Android™ is a trademark of Google LLC.</sub></p>
-
 <h3 align="center">Pixel Prop Website</h3>
 
 <p align="center">
-  <a href="https://prop.domiadi.com/privacy/" target="_blank" rel="noopener noreferrer">Privacy</a>
+  <a href="https://prop.domiadi.com/about/" target="_blank" rel="noopener noreferrer">About</a>
   &nbsp;|&nbsp;
-  <a href="https://prop.domiadi.com/terms/" target="_blank" rel="noopener noreferrer">Terms</a>
+  <a href="https://github.com/Elcapitanoe/PixelProp-Website/issues">Bug Report</a>
   &nbsp;|&nbsp;
-  <a href="https://prop.domiadi.com/disclaimer/" target="_blank" rel="noopener noreferrer">Disclaimer</a>
+  <a href="https://github.com/Elcapitanoe/PixelProp-Website/discussions">Discussions</a>
 </p>
 
 
@@ -21,5 +18,6 @@ Pixel Prop Website is a fully automated static site that fetches GitHub Release 
 
 ## Live Site
 
-**https://prop.domiadi.com** <br/>
-**https://pixelprop.pages.dev**
+➜ **https://prop.domiadi.com**
+<br/>
+➜ **https://pixelprop.pages.dev**
