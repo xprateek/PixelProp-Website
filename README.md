@@ -21,3 +21,5 @@ Pixel Prop Website is a fully automated static site that fetches GitHub Release 
 ➜ **https://prop.domiadi.com**
 <br/>
 ➜ **https://pixelprop.pages.dev**
+<br/>
+➜ **https://pif.pixelprop.workers.dev**
