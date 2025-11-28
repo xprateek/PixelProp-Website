@@ -1,0 +1,9 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "pixel-props-project",
+  "compatibility_date": "2025-11-28",
+  "assets": {
+    "directory": ".",
+    "not_found_handling": "404-page"
+  }
+}
